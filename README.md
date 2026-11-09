@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=180&section=header&text=Hi%20there,%20I'm%20Adithya&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=180&section=header&text=Hi%20there,%20I'm%20Adithya%20Krishna&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+%26+ML+Engineer;Crafting+FastAPI+Backends;Exploring+Vision+Models+%26+Unlearning;Building+Open+Source+Tools)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=MCA+Student+%7C+ML+%26+Deep+Learning;FastAPI+Backends+%26+Computer+Vision;Multimodal+AI+%26+IoT+Diagnostics;Exploring+Representation+Scrubbing)](https://git.io/typing-svg)
 
   <p align="center">
-    <b>CS Undergrad</b> focused on Machine Learning pipelines, backend microservices, and system tooling.
+    <b>MCA Graduate Student</b> focused on Computer Vision, Deep Learning architectures, and backend microservices.
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/adithyakrishna11/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:adithyaakrz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
@@ -25,9 +25,9 @@
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **ML & Vision** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST-02569B?style=flat-square) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **ML, Vision & Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Backend & Embedded** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST-02569B?style=flat-square) |
 | **DevOps & Environment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
@@ -41,47 +41,47 @@
     <td width="50%" valign="top">
       <h3 align="center">CircuitCopilot</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Multimodal-Vision-blue?style=flat-square" alt="Vision" />
+        <img src="https://img.shields.io/badge/Multimodal%20AI-Meta%20Muse-0081FB?style=flat-square" alt="Multimodal AI" />
+        <img src="https://img.shields.io/badge/Hardware-Diagnostics-orange?style=flat-square" alt="Diagnostics" />
       </p>
-      <p>Automated breadboard circuit debugging assistant utilizing vision pipelines to detect wiring errors, component pinouts, and open connections directly from photos.</p>
+      <p>Multimodal embedded hardware diagnostic workstation and visual debugging engine. Features interactive 2D spatial annotations, netlist trace verification, and automated breadboard defect isolation.</p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/circuit-copilot"><b>View Repository »</b></a>
+        <a href="https://github.com/adithyakrz/CircuitCopilot"><b>View Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Machine Unlearning in Vision</h3>
+      <h3 align="center">Deep-Fake-Detection</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch%2FTF-Research-red?style=flat-square" alt="ML" />
-        <img src="https://img.shields.io/badge/Representation-Scrubbing-purple?style=flat-square" alt="Research" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-ResNet50-FF6F00?style=flat-square" alt="ResNet50" />
+        <img src="https://img.shields.io/badge/Explainable%20AI-Grad--CAM-purple?style=flat-square" alt="Grad-CAM" />
       </p>
-      <p>Investigating selective forgetfulness in intermediate vision representations. Scrubbing trained concepts without requiring full-dataset retraining cycles.</p>
+      <p>Frame-based video classification pipeline for synthetic media detection. Leverages deep transfer learning via ResNet50 paired with Grad-CAM heatmaps to visually isolate facial artifact anomalies.</p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/machine-unlearning"><b>View Repository »</b></a>
+        <a href="https://github.com/adithyakrz/Deep-Fake-Detection"><b>View Repository »</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Bundesliga Match Predictor</h3>
+      <h3 align="center">Air-Quality-Monitoring-System</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square" alt="sklearn" />
-        <img src="https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=flat-square" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/IoT-ESP32-E7352C?style=flat-square" alt="ESP32" />
+        <img src="https://img.shields.io/badge/Embedded-C%2B%2B-00599C?style=flat-square" alt="C++" />
       </p>
-      <p>Data scraping and probabilistic outcome forecasting web engine using historical squad form, match factors, and rolling performance metrics.</p>
+      <p>Multi-sensor environmental monitoring system incorporating PMS5003, MQ135, MQ7, and DHT22 to track particulate matter, CO, CO₂, temperature, and humidity with real-time OLED telemetry and cloud telemetry sync.</p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/bundesliga-predictor"><b>View Repository »</b></a>
+        <a href="https://github.com/adithyakrz/Air-Quality-Monitoring-System"><b>View Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Auto Fish Premium / Stun Slam</h3>
+      <h3 align="center">bundesliga-match-predictor</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-Fabric%20Mod-ED8B00?style=flat-square" alt="Java" />
-        <img src="https://img.shields.io/badge/Downloads-4.4k+-success?style=flat-square" alt="Downloads" />
+        <img src="https://img.shields.io/badge/ML-Scikit--Learn-F7931E?style=flat-square" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Analytics-Rolling%20Form-blue?style=flat-square" alt="Rolling Form" />
       </p>
-      <p>Performance-focused client-side Fabric utility and PvP HUD mods. Implements event hook timing, state interpolation, and custom UI rendering.</p>
+      <p>Tabular machine learning pipeline forecasting German Bundesliga outcomes and upset probabilities. Implements rolling form analytics, feature engineering on past fixtures, and classification models.</p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/auto-fish-premium"><b>View Repository »</b></a>
+        <a href="https://github.com/adithyakrz/bundesliga-match-predictor"><b>View Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -92,12 +92,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyakrz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakrz&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" width="45%" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="94%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyakrz&theme=tokyonight&hide_border=true" width="94%" alt="GitHub Streak" />
 </p>
 
 ---
