@@ -7,7 +7,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=MCA+Student+%7C+ML+%26+Deep+Learning;FastAPI+Backends+%26+Computer+Vision;Multimodal+AI+%26+IoT+Diagnostics;Exploring+Representation+Scrubbing)](https://git.io/typing-svg)
 
   <p align="center">
-    <b>MCA Graduate Student</b> focused on Computer Vision, Deep Learning architectures, and backend microservices.
+    <b>MCA Student</b> focused on Computer Vision, Machine Learning, Deep Learning architectures, and backend microservices.
   </p>
 
   <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -89,7 +89,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adithyakrz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
