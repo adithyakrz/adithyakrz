@@ -92,8 +92,13 @@
 ### GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyakrz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyakrz&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" width="45%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyakrz&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyakrz&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 </div>
 
 <p align="center">
