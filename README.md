@@ -90,18 +90,26 @@ Match outcome forecasting application driven by rolling form metrics and ML clas
 
 <h2>&gt; tail -f learning.log</h2>
 
+</div>
+
+<div align="left">
+
 ```text
-loss
- │*
- │ *
- │  *
- │   **
- │     ***
- │        *****
- │             ********
- └──────────────────────── epochs
-   fail  →  learn  →  repeat
+                                      loss
+                                       │*
+                                       │ *
+                                       │  *
+                                       │   **
+                                       │     ***
+                                       │        *****
+                                       │             ********
+                                       └──────────────────────── epochs
+                                         fail  →  learn  →  repeat
 ```
+
+</div>
+
+<div align="center">
 
 <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
 
