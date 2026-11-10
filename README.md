@@ -92,11 +92,14 @@ Match outcome forecasting application driven by rolling form metrics and ML clas
 
 ```text
 loss
- │█▇
- │  ▆▅
- │    ▄▃▂
- │       ▂▁▁▁▁▁▁▁▁▁▁▁
- └─────────────────────── epochs
+ │*
+ │ *
+ │  *
+ │   **
+ │     ***
+ │        *****
+ │             ********
+ └──────────────────────── epochs
    fail  →  learn  →  repeat
 ```
 
